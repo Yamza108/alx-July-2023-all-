@@ -1,6 +1,8 @@
 #include "main.h"
+#include <stdio.h>
+
  /**
-  * clear_bit - Initializes a bit at given index to 0.
+  * clear_bit - clears a bit at given index
   * @n: pointer to the bit
   * @index: is the index, starting from 0 of the bit you want to set
   * Return: 1 if it worked, or -1 if an error occurred
